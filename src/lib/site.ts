@@ -4,7 +4,7 @@
 export const siteConfig = {
   name: "AYURM",
   // No trailing slash.
-  url: (process.env.NEXT_PUBLIC_SITE_URL || "https://ayurm.in").replace(/\/$/, ""),
+  url: ("https://ayurm.in").replace(/\/$/, ""),
   description:
     "Modern personal care inspired by traditional Indian ingredients. Thoughtfully formulated hair and skin care, with easy Cash on Delivery and WhatsApp ordering.",
   tagline: "Nature-inspired care, made for everyday you.",
