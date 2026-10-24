@@ -1,0 +1,34 @@
+[
+  {
+    "slug": "hibiscus-vetiver-anti-dandruff-shampoo",
+    "name": "Abhishek",
+    "rating": 4,
+    "comment": "Test",
+    "id": "1791964598154",
+    "createdAt": "2026-10-14T07:56:38.154Z"
+  },
+  {
+    "slug": "aloe-vera-saffron-gel",
+    "name": "Gulshan Gupta",
+    "rating": 5,
+    "comment": "Test",
+    "id": "1791964443939",
+    "createdAt": "2026-10-14T07:54:03.939Z"
+  },
+  {
+    "slug": "aloe-vera-saffron-gel",
+    "name": "Tisha Gupta",
+    "rating": 3,
+    "comment": "Awesome",
+    "id": "1791964387877",
+    "createdAt": "2026-10-14T07:53:07.877Z"
+  },
+  {
+    "slug": "aloe-vera-saffron-gel",
+    "name": "Priya Singh",
+    "rating": 4,
+    "comment": "Using since 2 Years! Thanks",
+    "id": "1791572429758",
+    "createdAt": "2026-10-09T19:00:29.758Z"
+  }
+]

@@ -1,0 +1,75 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --font-sans: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --font-serif: "Fraunces", Georgia, "Times New Roman", serif;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    @apply bg-cream-50 text-ink antialiased;
+    font-family: var(--font-sans);
+  }
+  h1, h2, h3, h4 {
+    font-family: var(--font-serif);
+    @apply text-forest-800;
+  }
+}
+
+@layer components {
+  .container-px {
+    @apply mx-auto w-full max-w-container px-4 sm:px-6 lg:px-8;
+  }
+
+  .btn {
+    @apply inline-flex items-center justify-center gap-2 rounded-full px-6 py-3 text-sm font-semibold transition-colors duration-200 disabled:opacity-50;
+  }
+  .btn-primary {
+    @apply btn bg-forest-600 text-cream-50 hover:bg-forest-700;
+  }
+  .btn-outline {
+    @apply btn border border-forest-600 text-forest-700 hover:bg-forest-50;
+  }
+  .btn-whatsapp {
+    @apply btn bg-[#25D366] text-white hover:bg-[#1ebe5a];
+  }
+  .btn-clay {
+    @apply btn bg-clay-500 text-cream-50 hover:bg-clay-600;
+  }
+
+  .card {
+    @apply rounded-2xl border border-cream-200 bg-white shadow-sm;
+  }
+
+  .section {
+    @apply py-14 sm:py-20;
+  }
+
+  .eyebrow {
+    @apply text-xs font-semibold uppercase tracking-[0.2em] text-clay-500;
+  }
+
+  .prose-ayurm {
+    @apply max-w-none leading-relaxed text-ink/90;
+  }
+  .prose-ayurm h2 {
+    @apply mt-8 mb-3 text-2xl;
+  }
+  .prose-ayurm h3 {
+    @apply mt-6 mb-2 text-xl;
+  }
+  .prose-ayurm p {
+    @apply mb-4;
+  }
+  .prose-ayurm ul {
+    @apply mb-4 list-disc space-y-1 pl-6;
+  }
+  .prose-ayurm a {
+    @apply text-forest-600 underline;
+  }
+}

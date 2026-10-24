@@ -1,0 +1,216 @@
+[
+  {
+    "name": "Aloe Vera Saffron Gel",
+    "slug": "aloe-vera-saffron-gel",
+    "image": "/products/aloe-vera-saffron-gel.png",
+    "gallery": [
+      "/products/aloe-vera-saffron-gel.png",
+      "/products/aloe-vera-saffron-gel-2.png",
+      "/products/aloe-vera-saffron-gel-3.png",
+      "/products/aloe-vera-saffron-gel-4.png",
+      "/products/aloe-vera-saffron-gel-5.png"
+    ],
+    "price": 349,
+    "mrp": 499,
+    "shortDescription": "Premium Aloe Vera Saffron Gel — adds luminiscence, evens skin tone and reduces spots for radiant skin.",
+    "fullDescription": "Saffron, known in Ayurveda for its warm glow and part of many traditional beauty regimes, adds luminiscence to the skin, evens out the skin tone, reduces spots and blemishes, making it radiant. When combined with aloe vera in our unique formulation, Mana Ayurvedam's Aloe Vera Saffron Gel will be your favourite go-to for all skin problems and a simple daily hydration routine. Premium quality, GMP certified. Made in India.",
+    "ingredients": [
+      "Pure Aloe Vera Gel",
+      "Saffron Extracts",
+      "Water"
+    ],
+    "benefits": [
+      "Adds luminiscence and natural glow",
+      "Evens out skin tone",
+      "Reduces spots and blemishes",
+      "Daily hydration routine",
+      "GMP certified premium quality"
+    ],
+    "howToUse": [
+      "Thoroughly cleanse your face and wipe dry.",
+      "Apply the Aloe Vera Saffron Gel evenly on your face.",
+      "Massage gently for a while and let it dry for 10–15 minutes."
+    ],
+    "suitableFor": "All skin types. Suitable for everyday use.",
+    "precautions": "For external use only. Store in a cool and dark place. Keep away from sunlight. Keep out of reach of children.",
+    "sku": "AYM-AVSG-100",
+    "inStock": true,
+    "featured": true,
+    "faqs": [
+      {
+        "q": "What does saffron do for skin?",
+        "a": "Saffron adds luminiscence, evens skin tone and reduces spots and blemishes, making skin radiant."
+      },
+      {
+        "q": "Can I use it daily?",
+        "a": "Yes, it is formulated for everyday use as part of your daily hydration routine."
+      }
+    ],
+    "seoTitle": "Aloe Vera Saffron Gel | AYURM",
+    "seoDescription": "Premium Aloe Vera Saffron Gel by Mana Ayurvedam — evens skin tone, reduces blemishes and adds a natural glow. COD available. Order from AYURM.",
+    "boughtThisMonth": 12
+  },
+  {
+    "name": "Hibiscus + Vetiver Anti-Dandruff Shampoo",
+    "slug": "hibiscus-vetiver-anti-dandruff-shampoo",
+    "image": "/products/Anti-dandruff.png",
+    "gallery": [
+      "/products/Anti-dandruff.png",
+      "/products/Anti-dandruff-2.png",
+      "/products/Anti-dandruff-3.png",
+      "/products/Anti-dandruff-4.png"
+    ],
+    "price": 399,
+    "mrp": 599,
+    "shortDescription": "Hibiscus & vetiver shampoo that promotes scalp health and controls dandruff build-up.",
+    "fullDescription": "An authentic Ayurvedic shampoo combining hibiscus and vetiver with amla, neem and aloe vera. Formulated to promote scalp health and control dandruff build-up while gently cleansing. Made with 100% natural ingredients and suitable for all hair types.",
+    "ingredients": [
+      "Hibiscus",
+      "Vetiver",
+      "Amla",
+      "Neem",
+      "Aloe Vera",
+      "Aqua",
+      "Mild Shampoo Base"
+    ],
+    "benefits": [
+      "Controls dandruff build-up",
+      "Promotes scalp health",
+      "100% natural ingredients",
+      "Suitable for all hair types"
+    ],
+    "howToUse": [
+      "Massage a small quantity on wet scalp.",
+      "Create a rich lather and rinse well with water.",
+      "Use 2–3 times a week or as preferred."
+    ],
+    "suitableFor": "All hair types.",
+    "precautions": "For external use only. Store in a cool and dark place. Keep away from sunlight. Keep out of reach of children.",
+    "sku": "AYM-HVAS-200",
+    "inStock": true,
+    "featured": true,
+    "faqs": [
+      {
+        "q": "Is it suitable for daily use?",
+        "a": "You can use it 2–3 times a week or as per your routine."
+      },
+      {
+        "q": "Is it 100% natural?",
+        "a": "Yes, it is made with 100% natural Ayurvedic ingredients."
+      }
+    ],
+    "seoTitle": "Hibiscus + Vetiver Anti-Dandruff Shampoo | AYURM",
+    "seoDescription": "100% natural Hibiscus & Vetiver shampoo to control dandruff and promote scalp health. COD available. Order from AYURM.",
+    "boughtThisMonth": 28
+  },
+  {
+    "name": "Bhringaraj Hair Oil",
+    "slug": "bhringraj-hair-oil",
+    "image": "/products/bhringraj-hair-oil.PNG",
+    "gallery": [
+      "/products/bhringraj-hair-oil.PNG",
+      "/products/bhringraj-hair-oil-2.PNG",
+      "/products/bhringraj-hair-oil-3.PNG"
+    ],
+    "price": 299,
+    "mrp": 449,
+    "shortDescription": "A rare natural blend of oils and medicinal herbs for hair growth and to forget hair fall.",
+    "fullDescription": "Bhringaraj Hair Oil is a rare natural blend of oils and medicinal herbs crafted to promote hair growth and reduce hair fall. Enriched with bhringaraj, neem, hibiscus, amla, brahmi and more, it works as a natural conditioner when left on for an hour. 100% natural and GMP certified.",
+    "ingredients": [
+      "Bhringaraj",
+      "Neem",
+      "Hibiscus",
+      "Amla",
+      "Menthi",
+      "Aloe Vera",
+      "Ushira",
+      "Brahmi",
+      "Lodhra",
+      "Manjishta",
+      "Coconut Oil"
+    ],
+    "benefits": [
+      "Promotes natural hair growth",
+      "Helps reduce hair fall",
+      "Works as a natural conditioner",
+      "100% natural Ayurvedic blend",
+      "GMP certified manufacturing"
+    ],
+    "howToUse": [
+      "Gently massage the oil into hair ensuring the entire scalp is covered.",
+      "Leave on for one hour — it works as a natural conditioner.",
+      "Cleanse with a mild shampoo."
+    ],
+    "suitableFor": "All hair types.",
+    "precautions": "For external use only. Store in a cool and dark place. Keep away from sunlight. Keep out of reach of children.",
+    "sku": "AYM-BHO-100",
+    "inStock": true,
+    "featured": true,
+    "faqs": [
+      {
+        "q": "How long should I leave the oil on?",
+        "a": "Leave it on for at least one hour. It works as a natural conditioner. You can also leave it overnight and wash off the next morning."
+      },
+      {
+        "q": "Is it 100% natural?",
+        "a": "Yes, it is made with 100% natural Ayurvedic oils and medicinal herbs."
+      }
+    ],
+    "seoTitle": "Bhringaraj Hair Oil | AYURM",
+    "seoDescription": "100% natural Bhringaraj Hair Oil — a rare blend of medicinal herbs for hair growth and to control hair fall. COD available. Order from AYURM.",
+    "boughtThisMonth": 22
+  },
+  {
+    "name": "Amla + Neem Anti-Hairfall Shampoo",
+    "slug": "amla-neem-anti-hairfall-shampoo",
+    "image": "/products/anti-harifall.png",
+    "gallery": [
+      "/products/anti-harifall.png",
+      "/products/anti-harifall-2.png",
+      "/products/anti-harifall-3.png"
+    ],
+    "price": 399,
+    "mrp": 599,
+    "shortDescription": "Authentic Ayurvedic shampoo with amla and neem that nourishes hair roots to minimise hair loss.",
+    "fullDescription": "An authentic Ayurvedic shampoo combining amla, neem, aloe vera, almond oil and basil oil to nourish hair roots and minimise hair loss. Gently cleanses the scalp while strengthening hair from the roots. Suitable for all hair types and regular use.",
+    "ingredients": [
+      "Amla",
+      "Neem",
+      "Aloe Vera",
+      "Almond Oil",
+      "Basil Oil",
+      "Aqua",
+      "Mild Shampoo Base"
+    ],
+    "benefits": [
+      "Nourishes hair roots",
+      "Minimises hair loss",
+      "Gently cleanses scalp",
+      "Suitable for all hair types",
+      "Authentic Ayurvedic formula"
+    ],
+    "howToUse": [
+      "Massage a small quantity on wet scalp.",
+      "Create a rich lather and rinse well with water.",
+      "Use 2–3 times a week or as preferred."
+    ],
+    "suitableFor": "All hair types.",
+    "precautions": "For external use only. Avoid contact with eyes; if contact occurs, rinse with water. Keep out of reach of children.",
+    "sku": "AYM-ANHS-200",
+    "inStock": true,
+    "featured": true,
+    "faqs": [
+      {
+        "q": "How often should I use it?",
+        "a": "You can use it 2–3 times a week or as per your routine."
+      },
+      {
+        "q": "Does it help with hair fall?",
+        "a": "Yes, it is formulated with amla, neem and almond oil to nourish hair roots and minimise hair loss."
+      }
+    ],
+    "seoTitle": "Amla + Neem Anti-Hairfall Shampoo | AYURM",
+    "seoDescription": "Authentic Ayurvedic Amla & Neem shampoo that nourishes hair roots and minimises hair loss. COD available. Order from AYURM.",
+    "boughtThisMonth": 30
+  }
+]
