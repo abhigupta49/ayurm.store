@@ -28,6 +28,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           rel="stylesheet"
         />
         <link rel="icon" href="/favicon.png" type="image/png" />
+        <meta name="google-site-verification" content="Sil-DEf112MPJmwrgjuV4UKsyRVCmLSDi5RiHRBBbMc" />
       </head>
       <body className="flex min-h-screen flex-col">
         <JsonLd data={[organizationJsonLd(), websiteJsonLd()]} />
